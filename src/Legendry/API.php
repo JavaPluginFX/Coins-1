@@ -1,4 +1,5 @@
 <?php 
+
 namespace Legendry;
 
 use Legendry\Coins;
