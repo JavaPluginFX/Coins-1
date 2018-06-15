@@ -6,7 +6,7 @@ use Legendry\Coins;
 
 use pocketmine\event\Listeners;
 use pocketmine\Player;
-use pocketmine\
+use pocketmine\event\Listeners;
 
 class API implements Listeners {
     
