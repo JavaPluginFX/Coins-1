@@ -1,5 +1,5 @@
 name: CoinSystem
-Version: 2.0
+version: 2.0
 api: 3.0.0-ALPHA12
 main: Legendry\Coins
 author: Legendry
